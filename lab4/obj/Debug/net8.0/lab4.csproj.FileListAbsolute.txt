@@ -1,0 +1,14 @@
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\bin\Debug\net8.0\lab4.exe
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\bin\Debug\net8.0\lab4.deps.json
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\bin\Debug\net8.0\lab4.runtimeconfig.json
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\bin\Debug\net8.0\lab4.dll
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\bin\Debug\net8.0\lab4.pdb
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.AssemblyInfoInputs.cache
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.AssemblyInfo.cs
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.dll
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\refint\lab4.dll
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.pdb
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\lab4.genruntimeconfig.cache
+C:\Users\jayda\OneDrive\Desktop\5th Sem Darshan\Practical\ASP.Net\practical\.net\lab4\obj\Debug\net8.0\ref\lab4.dll
